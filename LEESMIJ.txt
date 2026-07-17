@@ -1,0 +1,7 @@
+Audiowandeling Aarschot – definitieve testversie
+
+1. Open index.html om de wandeling op de Mac te testen.
+2. Voor de achtergrondkaart is internet nodig.
+3. De verkeerde startaudio (Demerwachter) is verwijderd.
+4. De welkomsttekst en praktische uitleg zijn vernieuwd.
+5. Alle haltefoto's en halte-audio's zijn ongewijzigd gebleven.
